@@ -1,5 +1,8 @@
 ## 👋 Welcome to AgentScope!
 
+![1768905478276-dfcbf9d7-15b0-4f92-bc68-999f5dee845e](https://github.com/user-attachments/assets/a69feae0-439f-471d-a255-ca54f84b7e02)
+
+
 AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that works with rising model capability and built-in support for finetuning.
 
 We design for increasingly agentic LLMs. Our approach leverages the models' reasoning and tool-use abilities rather than constraining them with strict prompts and opinionated orchestrations.
