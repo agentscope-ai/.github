@@ -1,18 +1,17 @@
-👋 Hello to everyone interested in agent development and products!
+## 👋 Welcome to AgentScope!
 
-We are the AgentScope Team at Tongyi Lab, Alibaba. Our target is to **offer agent-oriented programming (AOP) as a new programming model to organize the design and implementation of next-generation LLM-empowered applications.**
+AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that works with rising model capability and built-in support for finetuning.
 
-Our **📏FIRST PRINCIPLE** is "**💻 DEVELOPER-CENTRIC**", making building, calibrating, and shipping agents as easy and productive as possible.
+We design for increasingly agentic LLMs. Our approach leverages the models' reasoning and tool-use abilities rather than constraining them with strict prompts and opinionated orchestrations.
 
-Currently, we focus on three areas:
+## Why use AgentScope?
 
-- ⌨️  **Agent-orientd Programming**
-	through our [agentscope](https://github.com/agentscope-ai/agentscope) library 
+- **Simple yet powerful**: start building your agents in 5 minutes with built-in ReAct agent, tools, skills, human-in-the-loop steering, memory, planning, realtime voice, evaluation, model finetuning, etc.
+- **Extensible**: large number of ecosystem integrations for tools, memory and observability; built-in support for protocols such as MCP, A2A and agent skills; message hub for flexible multi-agent orchestration and workflows.
+- **Production-ready**：deploy and serve your agents locally, as serverless in the cloud, or on your K8s cluster with built-in OTel support and multi-language support.
 
-
-- 🛠️ **Agentic Application Development**
-	through our [agentscope-studio](https://github.com/agentscope-ai/agentscope-studio) library
-
-
-- 🚀 **Agentic Application Deployment**:	
-	through our [agentscope-runtime](https://github.com/agentscope-ai/agentscope-runtime) library
+From developing, observability to deployment, we provide an integrated suite of components: 
+- **AgentScope** - A flexible programming framework for building multi-agent applications with self-explanatory APIs.
+- **AgentScope-Runtime** - Scalable deployment infrastructure for running agents reliably in production.
+- **AgentScope-Studio** - Visual development environment for rapid prototyping, debugging, and monitoring your agents.
+- **AgentScope-Samples** - A curated collection of ready-to-use agent examples and templates, from simple command-line tools to full-stack production-ready applications.
