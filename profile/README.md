@@ -1,7 +1,6 @@
 ## 👋 Welcome to AgentScope!
 
-![1768905478276-dfcbf9d7-15b0-4f92-bc68-999f5dee845e](https://github.com/user-attachments/assets/a69feae0-439f-471d-a255-ca54f84b7e02)
-
+<img width="2586" height="1549" alt="B57D6617-2FB6-4067-8B71-B785A2A17A4F" src="https://github.com/user-attachments/assets/fcffa0c5-30f5-43f6-b515-57944ed6fdc1" />
 
 AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that works with rising model capability and built-in support for finetuning.
 
@@ -14,6 +13,7 @@ We design for increasingly agentic LLMs. Our approach leverages the models' reas
 - **Production-ready**：deploy and serve your agents locally, as serverless in the cloud, or on your K8s cluster with built-in OTel support and multi-language support.
 
 From developing, observability to deployment, we provide an integrated suite of components: 
+- **Copaw** - Your Personal AI Assistant, supporting both local and cloud deployment.
 - **AgentScope** - A flexible programming framework for building multi-agent applications with self-explanatory APIs.
 - **AgentScope-Runtime** - Scalable deployment infrastructure for running agents reliably in production.
 - **AgentScope-Studio** - Visual development environment for rapid prototyping, debugging, and monitoring your agents.
