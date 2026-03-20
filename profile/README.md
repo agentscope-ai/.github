@@ -18,3 +18,4 @@ From developing, observability to deployment, we provide an integrated suite of 
 - **AgentScope-Runtime** - Scalable deployment infrastructure for running agents reliably in production.
 - **AgentScope-Studio** - Visual development environment for rapid prototyping, debugging, and monitoring your agents.
 - **AgentScope-Samples** - A curated collection of ready-to-use agent examples and templates, from simple command-line tools to full-stack production-ready applications.
+- **Skills** - A curated collection of skills around AgentScope ecosystem and CoPaw applications.
