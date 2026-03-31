@@ -1,6 +1,7 @@
 ## 👋 Welcome to AgentScope!
 
-<img width="2586" height="1549" alt="B57D6617-2FB6-4067-8B71-B785A2A17A4F" src="https://github.com/user-attachments/assets/fcffa0c5-30f5-43f6-b515-57944ed6fdc1" />
+<img width="2586" height="1549" alt="生态版本v4" src="https://github.com/user-attachments/assets/7c9a6c80-87b5-43b7-83d6-e52abd1f7991" />
+
 
 AgentScope is a production-ready, easy-to-use agent framework with essential abstractions that works with rising model capability and built-in support for finetuning.
 
