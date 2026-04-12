@@ -14,9 +14,9 @@ We design for increasingly agentic LLMs. Our approach leverages the models' reas
 - **Production-ready**：deploy and serve your agents locally, as serverless in the cloud, or on your K8s cluster with built-in OTel support and multi-language support.
 
 From developing, observability to deployment, we provide an integrated suite of components: 
-- **Copaw** - Your Personal AI Assistant, supporting both local and cloud deployment.
+- **QwenPaw** - Your Personal AI Assistant, supporting both local and cloud deployment.
 - **AgentScope** - A flexible programming framework for building multi-agent applications with self-explanatory APIs.
 - **AgentScope-Runtime** - Scalable deployment infrastructure for running agents reliably in production.
 - **AgentScope-Studio** - Visual development environment for rapid prototyping, debugging, and monitoring your agents.
 - **AgentScope-Samples** - A curated collection of ready-to-use agent examples and templates, from simple command-line tools to full-stack production-ready applications.
-- **Skills** - A curated collection of skills around AgentScope ecosystem and CoPaw applications.
+- **Skills** - A curated collection of skills around AgentScope ecosystem and QwenPaw applications.
