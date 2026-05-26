@@ -1,6 +1,6 @@
 ## 👋 Welcome to AgentScope!
 
-<img width="2586" height="1549" alt="agentscope" src="https://github.com/user-attachments/assets/5cc17ae9-6942-43f8-bdee-b96ae12b132e" />
+<img width="2222" height="1564" alt="agentscope" src="https://github.com/user-attachments/assets/f74de68e-d6e0-4c87-8ccd-44a236b0db68" />
 
 <br>
 
@@ -13,7 +13,7 @@ AgentScope is a production-ready, easy-to-use agent framework with essential abs
 
 We design for increasingly agentic LLMs. Our approach leverages the models' reasoning and tool-use abilities rather than constraining them with strict prompts and opinionated orchestrations.
 
-## Why use AgentScope?
+## Why use AgentScope 2.0?
 
 - **Simple yet powerful**: start building your agents in 5 minutes with built-in ReAct agent, tools, skills, human-in-the-loop steering, memory, planning, realtime voice, evaluation, model finetuning, etc.
 - **Extensible**: large number of ecosystem integrations for tools, memory and observability; built-in support for protocols such as MCP, A2A and agent skills; message hub for flexible multi-agent orchestration and workflows.
@@ -26,3 +26,4 @@ From developing, observability to deployment, we provide an integrated suite of 
 - **AgentScope-Studio** - Visual development environment for rapid prototyping, debugging, and monitoring your agents.
 - **AgentScope-Samples** - A curated collection of ready-to-use agent examples and templates, from simple command-line tools to full-stack production-ready applications.
 - **Skills** - A curated collection of skills around AgentScope ecosystem and QwenPaw applications.
+
