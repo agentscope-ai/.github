@@ -22,8 +22,6 @@ We design for increasingly agentic LLMs. Our approach leverages the models' reas
 From developing, observability to deployment, we provide an integrated suite of components: 
 - **QwenPaw** - Your Personal AI Assistant, supporting both local and cloud deployment.
 - **AgentScope** - A flexible programming framework for building multi-agent applications with self-explanatory APIs.
-- **AgentScope-Runtime** - Scalable deployment infrastructure for running agents reliably in production.
-- **AgentScope-Studio** - Visual development environment for rapid prototyping, debugging, and monitoring your agents.
 - **AgentScope-Samples** - A curated collection of ready-to-use agent examples and templates, from simple command-line tools to full-stack production-ready applications.
 - **Skills** - A curated collection of skills around AgentScope ecosystem and QwenPaw applications.
 
