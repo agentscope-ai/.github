@@ -1,6 +1,6 @@
 ## 👋 Welcome to AgentScope!
 
-<img width="2222" height="1564" alt="agentscope" src="https://github.com/user-attachments/assets/c0256483-9b3e-475a-9635-e2e5981676f2" />
+<img width="2222" height="1564" alt="agentscope" src="https://img.alicdn.com/imgextra/i3/O1CN01k5XbA5dLCIB4S3xd_!!6000000003894-2-tps-2193-1564.png" />
 
 <br>
 
